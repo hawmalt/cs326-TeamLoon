@@ -2,7 +2,7 @@
 Team Loon's Web App repo
 
 Our 3 videos can be found here:
-(We encourage you to watch these together using SofaKing!)
+
 -Code walkthru screencast: https://www.youtube.com/watch?v=-pNyNavsSdU&list=PLE5eqXngF6HncUhoXH-lBsd3aVktaGz1V
 
 -Application use case screencast: https://www.youtube.com/watch?v=atBqaiTN4LQ&list=PLE5eqXngF6Hk2ifN6gvuQxAJFcibva8kB
@@ -18,7 +18,6 @@ Our 3 videos can be found here:
  prevent poor user experience caused by others (kicking from chatroom). For more information, see our
  [Final Project Document](https://docs.google.com/document/d/10Ry11kDxrAS6hF58ACVqZ_flG4xd5b_fdzNJwG2IOEs/edit?usp=sharing).
 
- Videos will be added to the "public" directory.
 
 ###How to Run###
 
